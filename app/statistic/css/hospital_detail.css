@@ -1,0 +1,65 @@
+.main-section {
+    margin: 50px 0;
+}
+
+.flex-bed-ot{
+    display: flex;
+    margin-bottom: 30px;
+   
+}
+
+.hospital-beds{
+    margin-right: 10px;
+    color: #2b2d42;
+}
+
+.hospital-name{
+    color: #1f385c;
+}
+
+.details-gap{
+    border: 1px solid  #1f385c;
+}
+
+.hospital-location{
+    color: #2b2d42;
+    font-size: 20px;
+}
+
+.hospital-speciality{
+    color: #29497a;
+}
+
+.hospital-contact{
+    color: #2b2d42;
+    font-size: 20px;
+}
+
+.hospital-timing{
+    color: #2b2d42;
+    font-size: 20px;
+    margin-top: 15px;
+    padding-top: 15px;
+}
+
+.blood-groups{
+    color: #2b2d42;
+}
+
+.location-icon{
+    width: 25px;
+    height: 25px;
+}
+
+.phone{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.hospital-ot{
+    color: #2b2d42;
+}
+
+.ot{
+    margin-left: 30px;
+}
