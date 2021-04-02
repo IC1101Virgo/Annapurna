@@ -53,7 +53,7 @@
                 "sha256:edb10b5c45e7e9c0fb1dc00b76ec7449aca258a39ffd613dbd078c51d19c9f03"
             ],
             "index": "pypi",
-            "version": "==3.1.6"
+            "version": "==3.1.4"
         },
         "django-bootstrap4": {
             "hashes": [
